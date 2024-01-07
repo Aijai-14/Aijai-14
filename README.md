@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Aijai-14
-- 👀 I’m interested in building mobile and web applications, AI and machine learning, data science and engineering design 
-- 🌱 I’m currently mastering backend-development with Java, learning data science with Python and game development with C++. As well as, learning about relational databases with query languages such as SQL. 
-- 💞️ I’m looking to collaborate on any interesting projects that will enhance my knowledge and learning in programming. I'm open to any oppertunities to work and collorate on projects together. 
+- This page contains projects I was interested on working due to personal interest, to build a good portfolio and to keep on learn about software. My goal is use these projects as examples of my strengths and land a software engineering job.  
 - 📫 How to reach me; my email is Aijaysarma14@gmail.com
 
 <!---
