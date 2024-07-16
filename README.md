@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aijaisarma Sabaratnasarma Also Known As Aijay</h1>
-<h3 align="center">A Passionate Software Engineer and Computer Vision Researcher from Canada</h3>
+<h3 align="center">An Aspiring Software Engineer From Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aijai-14&label=Profile%20views&color=0e75b6&style=flat" alt="aijai-14" /> </p>
 
