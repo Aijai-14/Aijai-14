@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aijai-14" alt="aijai-14" /></a> </p>
 
-- 🔭 I’m currently working on ** some web development and machine learning projects.**
+- 🔭 I’m currently working on **some web development and machine learning projects.**
 
 - 🌱 I’m currently learning **to use the MERN Stack and Deep Learning**
 
