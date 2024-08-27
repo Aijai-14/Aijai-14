@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aijai-14" alt="aijai-14" /></a> </p>
 
-- 🔭 I’m currently working on **a Computer Vision application to track traffic analytics on highways for research into a possible startup solution to make travel times more efficient.**
+- 🔭 I’m currently working on ** some web development and machine learning projects.**
 
-- 🌱 I’m currently learning **React.js, Node.js, Deep Learning**
+- 🌱 I’m currently learning **to use the MERN Stack and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Computer Vision, ML/AI, Data Science and Backend Development opportunities for clients, companies and research.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Aijaysarma14@gmail.com**
 
-- 📄 Know about my experiences (Resume/CV) [https://drive.google.com/file/d/1T3R31urmK7q15NQmAYfRDqyLeQ3iezEa/view?usp=sharing](https://drive.google.com/file/d/1T3R31urmK7q15NQmAYfRDqyLeQ3iezEa/view?usp=sharing)
+- 📄 Know about my experiences (Resume/CV) [https://drive.google.com/file/d/1c45zDDtO4pSyLQHJs6xGsDDBRWmExlNp/view?usp=sharing](https://drive.google.com/file/d/1c45zDDtO4pSyLQHJs6xGsDDBRWmExlNp/view?usp=sharing)
 
 - ⚡ Fun fact **I Love Gaming 🎮**
 
