@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aijaisarma Sabaratnasarma Also Known As Aijay</h1>
-<h3 align="center">An Aspiring Software Engineer From Canada</h3>
+<h3 align="center">Software Engineer From Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aijai-14&label=Profile%20views&color=0e75b6&style=flat" alt="aijai-14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aijai-14" alt="aijai-14" /></a> </p>
 
-- 🔭 I’m currently working on **some web development and machine learning projects.**
+- 🔭 I’m currently working on some **Web Development and AI based projects at a EdTech Startup.**
 
-- 🌱 I’m currently learning **to use the MERN Stack and Deep Learning**
+- 👯 I’m looking to collaborate on **Computer Vision, ML/AI, Data Science, and Backend Development opportunities for clients, companies, and research.**
 
-- 👯 I’m looking to collaborate on **Computer Vision, ML/AI, Data Science and Backend Development opportunities for clients, companies and research.**
-
-- 🤝 I’m looking for help with **finding software engineering internships.**
-
-- 💬 Ask me about **Machine Learning, Computer Vision, Backend Development**
+- 💬 Ask me anything about **Machine Learning, Computer Vision, and Backend Development**
 
 - 📫 How to reach me **Aijaysarma14@gmail.com**
 
-- 📄 Know about my experiences (Resume/CV) [https://drive.google.com/file/d/1Mww-e5WwZ7_suktctN8Yx12bIjUjB8Ac/view?usp=sharing](https://drive.google.com/file/d/1Mww-e5WwZ7_suktctN8Yx12bIjUjB8Ac/view?usp=sharing)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1p_PEaiWS3X138kH8JyVshu7jeqKnKnN8/view?usp=sharing)
 
 - ⚡ Fun fact **I Love Gaming 🎮**
 
