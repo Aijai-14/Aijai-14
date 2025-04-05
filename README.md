@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Aijaysarma14@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1p_PEaiWS3X138kH8JyVshu7jeqKnKnN8/view?usp=sharing)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1_EVrhOS6IKs8Ims5op6d24IZLtwC0pMp/view?usp=sharing)
 
 - ⚡ Fun fact **I Love Gaming 🎮**
 
